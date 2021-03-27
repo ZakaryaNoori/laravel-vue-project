@@ -38731,7 +38731,7 @@ var render = function() {
                         "router-link",
                         {
                           staticClass: "nav-item nav-link",
-                          attrs: { to: "/" }
+                          attrs: { to: "/home" }
                         },
                         [_vm._v("Products List")]
                       ),
