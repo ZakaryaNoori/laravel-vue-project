@@ -1,6 +1,6 @@
 # Laravel Vue auth and CRUD
 
-Simple Laravel crud and authentication with vuejs.
+Simple Laravel crud and jwt token authentication with vuejs.
 
 ## Installation
 
